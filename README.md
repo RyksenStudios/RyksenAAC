@@ -1,2 +1,4 @@
 # RyksenAAC
-AI-driven async anti-cheat for Paper 1.20+
+RyksenAAC
+🛡️ Next-generation Anti-Cheat for Paper 1.20+
+⚡ Async. Intelligent. Performance-focused.
